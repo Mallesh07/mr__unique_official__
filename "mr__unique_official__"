@@ -1,0 +1,7 @@
+echo "# mr__unique_official__" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Mallesh07/mr__unique_official__.git
+git push -u origin main
